@@ -2,5 +2,5 @@
 
 ## Aulas e Exercícios realizados.
 
-### Link
+### Url
 https://www.cursoemvideo.com/course/curso-python-3/
